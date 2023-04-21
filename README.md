@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[INSERT THING HERE]**
 
-- 📄 Know about my experiences [[INSERT THING HERE]]([INSERT THING HERE])
+- 📄 Know about my experiences [[INSERT THING HERE]]
 
 - ⚡ Fun fact **I'm also a theatre kid**
 
