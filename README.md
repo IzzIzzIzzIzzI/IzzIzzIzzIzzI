@@ -3,11 +3,7 @@
 
 - 🔮 I’m currently working on the website for **Witch's Brew**
 
-- 🌱 I’m currently learning **[INSERT THING HERE]**
-
-- 📫 How to reach me **[INSERT THING HERE]**
-
-- 📄 Know about my experiences **[INSERT THING HERE]**
+- 📫 How to reach me **iskoa002@osloskolen.no**
 
 - ⚡ Fun fact **I'm also a theatre kid**
 
