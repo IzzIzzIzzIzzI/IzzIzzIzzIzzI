@@ -1,7 +1,7 @@
 <h1 align="center">Heya👋, I'm Izzi</h1>
 <h3 align="center">A hard working IT student from Elvebakken VGS</h3>
 
-- 🔮 I’m currently working on the website for **Witch's Brew**
+- 🔮 I’m currently working on the app **NotesAI**
 
 - 📫 How to reach me **iskoa002@osloskolen.no**
 
